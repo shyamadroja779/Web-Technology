@@ -1,7 +1,7 @@
 # Web-Technology
 
--HTML
--CSS
--Java Script
--NextJS
--NestJS
+-HTML <br>
+-CSS <br>
+-Java Script <br>
+-NextJS  <br>
+-NestJS <br>
